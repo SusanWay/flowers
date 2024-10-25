@@ -1,4 +1,3 @@
-// https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
   ssr: true,
   compatibilityDate: '2024-04-03',
@@ -34,12 +33,10 @@ export default defineNuxtConfig({
     }
   },
   swiper: {
-    // Swiper options
-    //----------------------
     prefix: 'Swiper',
     styleLang: 'css',
-    // modules: ['navigation', 'pagination'], // all modules are imported by default
+  },
+  app: {
+    baseURL: '/flowers/',
   }
-
-
-})
+});
