@@ -10,7 +10,7 @@ import Flowers from "~/components/Flowers.vue";
       <p class="text-xl sm:text-title font-sans font-bold text-center">
         Поздравляю с днем Дня!
       </p>
-      <img class="mx-auto" src="https://i.ibb.co/1MJV1rB/cats.png" alt="">
+      <img class="mx-auto" src="https://allwebs.ru/images/2026/02/05/088d77450db96dc44702d11819512e50.png" alt="">
       <p class="text-xl sm:text-title-sm  md:text-title font-sans font-bold text-center">
         Для моей любимой <span> Кринжули 😎</span>
       </p>
